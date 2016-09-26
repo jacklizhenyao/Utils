@@ -15,7 +15,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 /**
- * Created by lizhenyao on 2016/7/28.
+ * Created by lizhenyao on 2015/11/28.
  */
 public class GetBitMapByteArray {
 
