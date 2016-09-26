@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * Created by lizhenyao on 2016/7/27.
+ * Created by lizhenyao on 2014/7/27.
  */
 public class UpdateTime {
     /**
